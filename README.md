@@ -36,8 +36,8 @@ Performed exploratory data analysis using Python, Pandas, and Matplotlib to unco
 
 ## Connect With Me
 
-💼 LinkedIn: linkedin.com/in/krunal-patil-ab10172b9
+💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/krunal-patil-ab10172b9)
 
-📧 Email: [pkrunalpatil26@gmail.com](mailto:pkrunalpatil26@gmail.com)
+📧 Email: <pkrunalpatil26@gmail.com>
 
-💻 GitHub: github.com/Krunalpatil15
+💻 GitHub: [GitHub Profile](https://github.com/Krunalpatil15) 
